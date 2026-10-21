@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.jks
+*.keystore
+compat-classes/
+compat-dex/
+hookutils-smali/build/
+hookutils-smali/dist/

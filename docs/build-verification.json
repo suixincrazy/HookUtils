@@ -1,0 +1,10 @@
+{
+  "clean_build_succeeded": true,
+  "apk_payload_entries": 63,
+  "apk_payload_differences": [],
+  "dex_matches": true,
+  "resources_match": true,
+  "delivered_apk_sha256": "8287315e01c19494dfc6762999d5ccccea3c1d2379e513328089c1b4e85c1fbb",
+  "rebuilt_apk_sha256": "07444b43c7b6e25501d878dc4c8dc1347703e8907d15e64ebc4776fb3ab5a81c",
+  "unsigned_code_matches_delivery": true
+}

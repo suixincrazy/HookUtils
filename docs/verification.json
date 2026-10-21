@@ -1,0 +1,31 @@
+{
+  "requirements": {
+    "final_version_name_1_2_7": true,
+    "official_health_17_0_8_300_installed": true,
+    "original_health16_initial_fix_verified": true,
+    "latest_official_download_matches_saved_apk": true,
+    "final_cold_start_and_settings": true,
+    "direct_cold_start_settings": true,
+    "real_watch_install": true,
+    "modified_content_rejected_without_transfer": true,
+    "installed_apk_matches_delivery": true,
+    "temporary_preferences_restored": true,
+    "debug_service_and_files_removed": true,
+    "task_port_forwards_removed": true,
+    "source_session_display_confirmed": true
+  },
+  "apk": {
+    "name": "HookUtils-1.2.7.apk",
+    "size": 2282776,
+    "sha256": "8287315e01c19494dfc6762999d5ccccea3c1d2379e513328089c1b4e85c1fbb",
+    "versionName": "1.2.7",
+    "versionCode": 20261022,
+    "installed_sha256": "8287315e01c19494dfc6762999d5ccccea3c1d2379e513328089c1b4e85c1fbb"
+  },
+  "limitations": [
+    "WATCH 5 要求内容签名；支持签名与原始 ID、版本、内容匹配的 HWT。",
+    "本次最终包复验真实安装成功；显示正常的人工确认来自来源会话中同一内容的本地安装测试。",
+    "健康 16 的证据来自初始修复包；最终包在健康 17 上验证，没有降级回测。",
+    "不需要内容签名的设备沿用随机 ID / 设计师流程，本次未在另一种手表上实测。"
+  ]
+}
